@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 
 namespace HelloWorld
 {
@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World, hello Berlin!");
+            Console.WriteLine("Hello World, hello Berlin, hello Pankow!");
         }
     }
 }
